@@ -1,0 +1,8 @@
+{
+  "test":
+    { "protocol": "https",
+      "method": "POST",
+      "host": "",
+      "path": ""
+      }
+}
